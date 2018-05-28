@@ -8,4 +8,6 @@ Git-Grundlagen
 Phyton-Grundlagen
 
 Tools für SW-Development
-
+cmder
+phyton
+visual studio code
