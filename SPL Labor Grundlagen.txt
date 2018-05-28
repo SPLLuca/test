@@ -1,5 +1,11 @@
 28.05.2018
 SPL
-Luca K.
+Luca
 
+Inhalte:
+Versionskontrolle
+Git-Grundlagen
+Phyton-Grundlagen
+
+Tools für SW-Development
 
